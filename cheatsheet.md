@@ -1,5 +1,5 @@
 # Git
-git status: shows current status of folder (what is modified, etc.)\n
+git status: shows current status of folder (what is modified, etc.)
 git commit: records current work
 git push: uploads work to Github
 git pull: retrieves saved work
